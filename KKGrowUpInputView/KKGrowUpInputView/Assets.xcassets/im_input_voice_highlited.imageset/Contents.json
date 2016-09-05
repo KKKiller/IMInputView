@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 11,
+          "height" : 15
+        },
+        "cap-insets" : {
+          "bottom" : 18,
+          "top" : 17,
+          "right" : 40,
+          "left" : 49
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "松开结束.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
